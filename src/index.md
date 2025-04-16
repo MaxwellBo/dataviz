@@ -1,5 +1,3 @@
-# data
+# dataviz
 
-This is the home page of your new Observable Framework app.
-
-For more, see <https://observablehq.com/framework/getting-started>.
+This is index to all of my [Observable Framework](https://observablehq.com/framework/) based visualizations.
